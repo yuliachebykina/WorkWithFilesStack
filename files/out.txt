@@ -1,0 +1,3 @@
+USD $ Sell: 26.334 Buy: 27.588
+RUB ₽ Sell: 0.472 Buy: 0.495
+EUR € Sell: 28.235 Buy: 29.579
